@@ -9,15 +9,15 @@ import Footer from "./Footer";
 const Home = () => {
 	return (
 		<div >
-			<div style={{ marginBottom: "20px" }}>
+			<div style={{ padding: "20px" }}>
 				<Navbar/>
 			</div>
-			<br/>
+			
 			<div>
 				<TimeWatch/>
 			</div>
-			<br/>
-			<div style={{ marginTop: "20px" }}>
+			
+			<div style={{ padding: "20px" }}>
 				<Footer/>
 			</div>
 		</div>

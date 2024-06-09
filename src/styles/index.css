@@ -16,7 +16,7 @@ body{
 .footer{
     display: flex;
     justify-content: center;
-   align-items: end;
+    align-items: end;
     background-color: #ffc107;
     padding: 10px;
     height: 100px;
@@ -49,4 +49,13 @@ body{
     width: 10rem;
     
     
+}
+.letter{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size: 50px;
+}
+.h1-text{
+    font-size: 50px;
 }
